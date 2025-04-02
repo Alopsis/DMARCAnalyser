@@ -39,8 +39,8 @@ Voici les differentes fonctionnalitées du programme :
 - Permet d'ajouter un domaine a monitorer.
 
 [getChangement]
-
 - Permet de voir les changements avec les anciennes informations pour voir les ajouts et les suppressions. 
+
 [getDNSRecord]
 
 - Permet d'afficher les champs DNS d'un domaine 
