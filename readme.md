@@ -22,10 +22,6 @@ Voici les differentes fonctionnalitées du programme :
 
 ```
 - python3 script.py
-> addConfig 
-> google.com
-> checkConfig
-> quit
 ```
 
 ## Help
