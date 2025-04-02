@@ -1,0 +1,3 @@
+termcolor==3.0.0
+prettytable==3.16.0
+inquirer==3.4.0
